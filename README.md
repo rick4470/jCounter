@@ -25,7 +25,26 @@ Installation
   3. Open the project in netbeans IDE for ant build
   4. Create custom validation keys in the database 
   
+Code Formatting / Style:
+------------
+ * Tabs to 4 spaces
+ * Java curly bracket formatting on two lines.  ex:
 
+```java
+    if (true) 
+    {
+    	stament..
+    }
+    else 
+    {
+    	stament..
+    }
+```
+
+ * camelCase for methods and PascalCase for Classes ex:
+ * ClassName.java
+ * myMethod();
+ 
 License
 -------
 jCounter is made available under the terms of the [The MIT License (MIT)](http://opensource.org/licenses/MIT). See the 

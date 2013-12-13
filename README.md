@@ -26,6 +26,7 @@ Installation
   4. Create custom validation keys in the database 
   
 Code Formatting / Style:
+------------
  * Tabs to 4 spaces
  * Java curly bracket formatting on two lines.  ex:
 

@@ -1,7 +1,7 @@
 jCounter Application / Open source Calorie Counter
 =========================================
 
-  * Author: Rick, Mark, Joe, Camille, Vladimir
+  * Author's: Rick, Mark, Joe, Camille, Vladimir
   * Language: Java
 
 Features

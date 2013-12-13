@@ -24,6 +24,8 @@ Installation
   2. Install java 7 
   3. Open the project in netbeans IDE for ant build
   4. Create custom validation keys in the database 
+  
+
 License
 -------
 jCounter is made available under the terms of the [The MIT License (MIT)](http://opensource.org/licenses/MIT). See the 
